@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4e7e23b8bd96dedc0dd7e72ac0a74f10723b5a5cc1705db08afa80b5d85a1f6b",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MetaBalls: Genesis",
+  "SYMBOL": "MBLNF",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/metaballs-genesis-v2",
+  "SHOW_BACKGROUND": true
+}
